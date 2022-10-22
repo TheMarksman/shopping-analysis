@@ -1,0 +1,7 @@
+name: shopping-analysis
+channels:
+  - defaults
+dependencies:
+  - nodejs=16.13.1
+  - vs2015_runtime=14.27.29016
+  - yarn=1.22.19
